@@ -1,7 +1,7 @@
 
-# Food Website
+# OmniFood Website
 
-This project is a clone of a clothes shopping website built with HTML, CSS, and JavaScript. It allows users to browse and view various clothing items. The site features a clean, modern design and a user-friendly interface.
+Welcome to omnifood website! This website is built using HTML, CSS, and JavaScript to create an engaging and interactive experience for users.The website is designed to adapt and display correctly on various devices, such as desktops, tablets, and mobile phones.
 
 ## Features
 
